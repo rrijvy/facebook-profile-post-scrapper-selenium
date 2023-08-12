@@ -1,0 +1,23 @@
+{
+  "name": "facebook-profile-post-scrapper-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^115.0.1",
+    "dotenv": "^16.3.1",
+    "selenium-webdriver": "^4.11.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.10",
+    "@types/selenium-webdriver": "^4.1.15",
+    "typescript": "^5.1.6"
+  }
+}
