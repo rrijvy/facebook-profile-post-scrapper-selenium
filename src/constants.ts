@@ -6,6 +6,7 @@ export class Constants {
   static CookiePath = path.join(Constants.AppRootPath, "assets", "cookiebro-domaincookies-.instagram.com.json");
   static XhrInjectionScriptPath = path.join(Constants.AppRootPath, "src", "injectedScripts", "xhrInjection.js");
   static XhrLogsPath = path.join(Constants.AppRootPath, "assets", "xhrLogs.json");
+  static XhrLogsExcelPath = path.join(Constants.AppRootPath, "assets", "xhrLogs.xlsx");
 }
 
 export class XPaths {
