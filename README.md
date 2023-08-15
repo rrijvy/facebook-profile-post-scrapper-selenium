@@ -28,7 +28,7 @@ This Node.js project allows you to scrape Instagram data using Selenium based on
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed:
+<b>Before you begin, ensure you have the following installed:</b>
 <br/>
 Node.js: Download and install Node.js
 
