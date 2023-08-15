@@ -9,7 +9,7 @@
     This project allows you to scrape Instagram data using Selenium 
     <br/>
     <br/>
-    <a href="https://github.com/rrijvy/instagram-scrapper">View Demo</a>
+    <a href="https://youtu.be/5gaHG-oqbb8">View Demo</a>
     .
     <a href="https://github.com/rrijvy/instagram-scrapper/issues">Request Feature</a>
   </p>
@@ -29,9 +29,20 @@ This Node.js project allows you to scrape Instagram data using Selenium based on
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
+<br/>
 Node.js: Download and install Node.js
+
+## Installation
+
+- Clone this repository
+> git clone https://github.com/rrijvy/instagram-scrapper.git
+
+- Navigate to the project directory:
+> cd instagram-scraper
+
+- Install dependencies:
+> npm install
 
 ## Usage
 
-This code initiates a hashtag search on Instagram, captures relevant network responses, and then outputs the data to JSON and Excel files with specific formatting and content based on the extracted Instagram data. 
-
+This code initiates a hashtag search on Instagram, captures relevant network responses, and then outputs the data to JSON and Excel files with specific formatting and content based on the extracted Instagram data.
