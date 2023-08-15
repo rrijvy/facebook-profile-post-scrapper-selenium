@@ -133,3 +133,4 @@ dist
 
 # custom 
 assets/*
+!assets/images/
