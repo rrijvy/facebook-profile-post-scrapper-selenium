@@ -32,17 +32,6 @@ Before you begin, ensure you have the following installed:
 <br/>
 Node.js: Download and install Node.js
 
-## Installation
-
-- Clone this repository
-> git clone https://github.com/rrijvy/instagram-scrapper.git
-
-- Navigate to the project directory:
-> cd instagram-scraper
-
-- Install dependencies:
-> npm install
-
 ## Usage
 
 This code initiates a hashtag search on Instagram, captures relevant network responses, and then outputs the data to JSON and Excel files with specific formatting and content based on the extracted Instagram data.
