@@ -2,11 +2,12 @@
   "compilerOptions": {
     "target": "es6",
     "module": "commonjs",
-    "strict": true,
     "rootDir": "./src",
     "outDir": "./dist",
     "lib": ["es6"],
     "types": ["node"],
+    "strict": true,
+    "sourceMap": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "esModuleInterop": true

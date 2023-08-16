@@ -1,5 +1,5 @@
 {
-  "name": "facebook-profile-post-scrapper-selenium",
+  "name": "instagram-scrapper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,8 @@
   "devDependencies": {
     "@types/node": "^20.4.10",
     "@types/selenium-webdriver": "^4.1.15",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
     "typescript": "^5.1.6"
   }
 }
